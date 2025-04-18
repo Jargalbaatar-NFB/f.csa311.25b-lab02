@@ -13,7 +13,7 @@ public class Main {
         Renderer circleRenderer = new Renderer(circle);
         Renderer squareRenderer = new Renderer(square);
         Renderer rectangleRenderer = new Renderer(rectangle);
-//aaqwhgjfq fgit JFGASGHFGHAGKFGKAGFAGFHGALGFGAKFGKAGFKGAOFGOYWQEGFLGAOYEQGOAY
+//aaqwhgjfq fgit JFGASGHFGHAGKFGKAGFAGFHGALGFGAKFGKAGFKGAOFGOYWQE
         circleRenderer.draw();
         squareRenderer.draw();
         rectangleRenderer.draw();
